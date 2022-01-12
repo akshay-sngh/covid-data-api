@@ -1,4 +1,4 @@
-# COVID-19 Data retirever API
+# COVID-19 Data retirever Application
 Consumes MIT's COVID API and filters out probabilities of public places people in New York are mostly likely to attend.
 
 ## Installation
